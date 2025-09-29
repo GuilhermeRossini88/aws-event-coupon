@@ -1,4 +1,4 @@
-package com.rtech.eventos.model.Event;
+package com.rtech.eventos.domain.Event;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

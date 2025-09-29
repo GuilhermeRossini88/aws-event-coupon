@@ -1,6 +1,6 @@
-package com.rtech.eventos.model.Coupon;
+package com.rtech.eventos.domain.Coupon;
 
-import com.rtech.eventos.model.Event.Event;
+import com.rtech.eventos.domain.Event.Event;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
